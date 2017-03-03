@@ -3,7 +3,7 @@ Práctica del módulo DevOpsd del I Web Development Master Bootcamp
 
 ![Matrix_Kung_Fu](http://media.giphy.com/media/vEcyRJ5yysqk/giphy.gif)
 
-## Aplicación HTML estático
+## Aplicación HTML estática
 http://178.62.154.56/
 
 ## Aplicación Python Django
